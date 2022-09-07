@@ -2,14 +2,14 @@
 
 ## Objetivos
 - Declarar el atributo style directamente en la etiqueta de apertura
-- utilizar el atributo color para cambiar el color del texto
+- Utilizar el atributo color para cambiar el color del texto
 
 ## Introducción 
 Hemos aprendido que para agregar estilo a un elemento HTML, puedes incluir el atributo `style` directamente en la etiqueta de apertura y establecer los estilos CSS que deseas aplicar a ese elemento. 
 
 
 ## Funcionalidad del Código
-En este lab declararemos el atributo style dentro de una etiqueta
+En este lab declararemos el atributo `style` dentro de una etiqueta
 
 ## Instrucciones
 Bifurca (fork) y clona (clone) este lab en tu entorno local. Navega a su directorio en la terminal, luego ejecuta el comando `code .` para abrir sus archivos en Visual Studio Code. 
